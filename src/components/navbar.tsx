@@ -15,7 +15,7 @@ export function Navbar() {
       <Spotlight className="top-10 left-0 md:-top-20 md:left-60" fill="white" />
       <div className="relative flex w-full max-w-xl items-center justify-center">
         <h1 className="relative z-10 flex items-center text-2xl font-bold tracking-tight text-gray-800">
-          <span className="text-pink-500">@</span>Nguyễn Thanh Tuấn 
+          <span className="text-pink-500">@</span>Nguyễn Trọng Thảo
         </h1>
 
         <div className="absolute right-0">
