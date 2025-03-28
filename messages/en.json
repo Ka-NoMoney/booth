@@ -1,0 +1,42 @@
+{
+  "HomePage": {
+    "title": "Hello!",
+    "errors": {
+      "camera_access_required": "You need to grant camera access. Please enable permissions in browser settings and reload the page."
+    },
+    "undo": "Undo",
+    "capture": "Capture",
+    "auto_mode": "Auto Mode",
+    "reset": "Reset",
+    "select_photos": "Select Photos",
+    "photo_strip": "Photo Strip ({count})",
+    "frame_customization": "Frame Customization",
+    "solid_colors": "Solid Colors",
+    "gradients": "Gradients",
+    "frame_style": "Frame Style",
+    "layout_preview": "Layout Preview",
+    "layout_tips": "Layout Tips",
+    "layout_tips_content": "Choose your favorite photos and customize the frame by selecting a solid color or gradient to create the perfect photo strip. Use the color picker to fine-tune. When satisfied, press the Download button below.",
+    "retake": "Retake",
+    "processing": "Processing",
+    "download": "Download",
+    "select_more": "Select {count} more photos",
+    "empty": "Empty",
+    "select_prompt": "Select {count} photos ({selectedCount}/{count})",
+    "stickers": "Stickers",
+    "sticker_tips": "Sticker Tips",
+    "sticker_tips_content": "Choose from pre-designed sticker layouts or add personal stickers to customize your photo. Stickers will be included in the final download file.",
+    "uploading": "Uploading",
+    "upload_&_generate_qr": "Upload & Generate QR",
+    "scan_qr_to_download_image": "Scan QR to download image",
+    "open_link": "Open Link",
+    "copy_link": "Copy Link",
+    "copied": "Copied",
+    "share": "Share",
+    "send_to_phone": "Send to phone",
+    "hide_qr": "Hide QR",
+    "scan_to_view_on_mobile": "Scan to view on mobile",
+    "scan_content": "Scan this QR code with your phone camera to instantly view and download your creation",
+    "frames": "Frames"
+  }
+}
